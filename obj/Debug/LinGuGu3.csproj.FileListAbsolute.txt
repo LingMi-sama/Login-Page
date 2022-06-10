@@ -1,0 +1,16 @@
+D:\2022test\LinGuGu3\obj\Debug\LinGuGu3.csproj.AssemblyReference.cache
+D:\2022test\LinGuGu3\obj\Debug\MainWindow.g.cs
+D:\2022test\LinGuGu3\obj\Debug\App.g.cs
+D:\2022test\LinGuGu3\obj\Debug\LinGuGu3_MarkupCompile.cache
+D:\2022test\LinGuGu3\obj\Debug\LinGuGu3_MarkupCompile.lref
+D:\2022test\LinGuGu3\bin\Debug\LinGuGu3.exe.config
+D:\2022test\LinGuGu3\bin\Debug\LinGuGu3.exe
+D:\2022test\LinGuGu3\bin\Debug\LinGuGu3.pdb
+D:\2022test\LinGuGu3\obj\Debug\App.baml
+D:\2022test\LinGuGu3\obj\Debug\MainWindow.baml
+D:\2022test\LinGuGu3\obj\Debug\LinGuGu3.g.resources
+D:\2022test\LinGuGu3\obj\Debug\LinGuGu3.Properties.Resources.resources
+D:\2022test\LinGuGu3\obj\Debug\LinGuGu3.csproj.GenerateResource.cache
+D:\2022test\LinGuGu3\obj\Debug\LinGuGu3.csproj.CoreCompileInputs.cache
+D:\2022test\LinGuGu3\obj\Debug\LinGuGu3.exe
+D:\2022test\LinGuGu3\obj\Debug\LinGuGu3.pdb
